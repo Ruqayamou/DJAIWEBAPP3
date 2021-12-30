@@ -1,0 +1,22 @@
+.heading{
+    width:100%;
+    font-size: 25px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.note{
+    font-size: 15px;
+    color:black;
+}
+
+.button{
+    font-size:25px;
+    width:130px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+canvas{
+    box-shadow: 30px 30px 30px cyan;
+    border-radius: 78px;
+    border:2px solid blue;
+}
